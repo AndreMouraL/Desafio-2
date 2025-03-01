@@ -1,6 +1,6 @@
 # 🚀 Desafio 1 ✅  
 
-🗓️ **Data de Publicação:** 00/00/0000  
+🗓️ **Data de Publicação:** 19/02/2025  
 💣 **Data de Entrega:** 13/03/2025 
 
 📊📈👨🏻‍💻👩🏻‍💻 CIÊNCIA DE DADOS - ANDRE MOURA LIMA
@@ -61,6 +61,7 @@
 ```
 ### Citação do Desafio 2
 
+```
 ```
 @Misc{moura2025desafio 2,
     author = {Moura Lima, Andre},
