@@ -58,10 +58,10 @@
 
 6.  Por fim, faça um relatório de duas páginas, detalhando a sua observação na análise desses dados do Estado do Maranhão.
 
-```
+
 ### Citação do Desafio 2
 
-```
+
 ```
 @Misc{moura2025desafio 2,
     author = {Moura Lima, Andre},
