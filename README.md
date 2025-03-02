@@ -1,6 +1,6 @@
-# 🚀 Desafio 1 ✅  
+# 🚀 Desafio 2 ✅  
 
-🗓️ **Data de Publicação:** 00/00/0000  
+🗓️ **Data de Publicação:** 19/02/2025  
 💣 **Data de Entrega:** 13/03/2025 
 
 📊📈👨🏻‍💻👩🏻‍💻 CIÊNCIA DE DADOS - ANDRE MOURA LIMA
@@ -58,8 +58,9 @@
 
 6.  Por fim, faça um relatório de duas páginas, detalhando a sua observação na análise desses dados do Estado do Maranhão.
 
-```
+
 ### Citação do Desafio 2
+
 
 ```
 @Misc{moura2025desafio 2,
