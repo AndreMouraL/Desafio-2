@@ -2,29 +2,25 @@
 ## Tarefa
 
 
-1. Calcule a velocidade e a aceleração do crescimento populacional, do PIB e da renda per capita. Em seguida, crie gráficos para visualizar esses parâmetros, incluindo títulos, legendas e descrições claras para cada eixo.
+2. Calcule a velocidade e a aceleração do crescimento populacional, do PIB e da renda per capita. Em seguida, crie gráficos para visualizar esses parâmetros, incluindo títulos, legendas e descrições claras para cada eixo.
 
 
 ## Cálculo da Velocidade e Aceleração
 
 A variação de uma grandeza no tempo pode ser analisada com as expressões matemáticas para **velocidade** e **aceleração**:
 
-- **Velocidade Média**:
+- **Velocidade**:
   
-  \[
-  v = \frac{\Delta S}{\Delta t}
-  \]
+![v](https://github.com/user-attachments/assets/83801dac-eba3-4a25-9f66-c80f8d06ecfd)
 
   Onde:
   - \( v \) é a velocidade média,
-  - \( \Delta S \) é a variação da grandeza (população, PIB, renda per capita),
+  - \( \Delta x \) é a variação da grandeza (população, PIB, renda per capita),
   - \( \Delta t \) é o intervalo de tempo considerado.
 
-- **Aceleração Média**:
+- **Aceleração**:
 
-  \[
-  a = \frac{\Delta v}{\Delta t}
-  \]
+  ![a](https://github.com/user-attachments/assets/5aabf6d9-c5b1-4bdf-8c93-9d1d247592ad)
 
   Onde:
   - \( a \) é a aceleração média,
@@ -115,11 +111,24 @@ A variação de uma grandeza no tempo pode ser analisada com as expressões mate
 | 2023 | R$135,00                     | R$ 969,00             | R$ 155,00       | 155,00          |
 | 2024 | R$140,00                     | R$ 969,00             | R$ 0,00         | -155,00         |
 
-#Gráficos:
+## Gráficos:
+
 1.Crescimento Populacional (Calculo velocidade e Aceleração).
+
+![Velocidade Crescimento Populacional](https://github.com/user-attachments/assets/64b907fc-a319-48e8-824e-ca0645209756)
+![Aceleração Crescimento Populacional](https://github.com/user-attachments/assets/85d81da4-c01a-4262-8cd9-91deb84451f2)
+![Velocidade e Aceleração do Crescimento Populacional](https://github.com/user-attachments/assets/02882441-a07d-4f64-894e-05d3cd78c330)
+
 2. PIB (Calculo velocidade e Aceleração).
-3.Renda Per Capita ao Longo dos Anos (Calculo velocidade e Aceleração).
+   
+![Velocidade  do Crescimento do PIB ao Ano](https://github.com/user-attachments/assets/f7c18c81-ffac-42b0-8150-fe75381e2adf)
+![Aceleração  do crescimento do PIB ao Ano](https://github.com/user-attachments/assets/551c6c8b-e74d-4844-ab57-f5a63f95845c)
+![Crescimento do PIB ao Longo dos Anos](https://github.com/user-attachments/assets/398dcfb0-2102-45fa-84e4-e3b7c9a6d9cb)
 
+3. Renda Per Capita ao Longo dos Anos (Calculo velocidade e Aceleração).
 
-#Resumo
+![Velocidade do Crescimento da Renda per Capita](https://github.com/user-attachments/assets/723c448c-4b58-4216-b87d-b2faf4bcebff)
+![Aceleração do Crescimento  da Renda per Capita](https://github.com/user-attachments/assets/5f0d3afa-f71c-40ef-9642-e41a0b155d39)
 
+## Resumo
+Análise do calculo de Renda, PIB e polução do Estado do Maranhão e em todas as tabelas estão calculada todas as a velocidades  e aceleração em suas respectivas colunas.
