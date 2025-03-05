@@ -32,6 +32,8 @@ Com Interpolação.
 
 
 
-
 ## Resumo
  Análise de dados com Interpolação Linear  substituindo os lavores não encontrados por  valores próximos a média.
+
+<!--![Fórmula da Interpolação Linear](https://latex.codecogs.com/svg.image?\dpi{110}f(x)%20=%20f(x_0)%20+%20\frac{(x%20-%20x_0)%20\cdot%20(f(x_1)%20-%20f(x_0))}{x_1%20-%20x_0})-->
+
