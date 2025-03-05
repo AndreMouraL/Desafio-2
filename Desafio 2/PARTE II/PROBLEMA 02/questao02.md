@@ -111,7 +111,7 @@ A variação de uma grandeza no tempo pode ser analisada com as expressões mate
 | 2023 | R$135,00                     | R$ 969,00             | R$ 155,00       | 155,00          |
 | 2024 | R$140,00                     | R$ 969,00             | R$ 0,00         | -155,00         |
 
-#Gráficos:
+## Gráficos:
 
 1.Crescimento Populacional (Calculo velocidade e Aceleração).
 
@@ -130,5 +130,5 @@ A variação de uma grandeza no tempo pode ser analisada com as expressões mate
 ![Velocidade do Crescimento da Renda per Capita](https://github.com/user-attachments/assets/723c448c-4b58-4216-b87d-b2faf4bcebff)
 ![Aceleração do Crescimento  da Renda per Capita](https://github.com/user-attachments/assets/5f0d3afa-f71c-40ef-9642-e41a0b155d39)
 
-#Resumo
+## Resumo
 Análise do calculo de Renda, PIB e polução do Estado do Maranhão e em todas as tabelas estão calculada todas as a velocidades  e aceleração em suas respectivas colunas.
