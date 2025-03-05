@@ -1,36 +1,16 @@
-## Dados de População, PIB e Renda Per Capita
-
-Os dados da coluna desta planilha não abrangem todos os anos, sendo necessário obter 
-de alguns anos por interpolação, pois o IBGE não forneceu informações completas. 
-Portanto, esses dados devem ser utilizados exclusivamente para fins deste desafio.
-
-| Ano  | População Estimada | PIB Estimado (R$ em Bilhões) | Renda per capita | Interpolação (Renda per capita) |
-|------|--------------------|-----------------------------|------------------|-------------------------------|
-| 2010 | 6.574.789         | R$ 52,10                    | R$ 660,00        | R$ 660,00                     |
-| 2011 | 6.651.000         | R$ 52,20                    | R$ 665,00        | R$ 665,00                     |
-| 2012 | 6.727.000         | R$ 58,80                    | R$ 682,00        | R$ 682,00                     |
-| 2013 | 6.803.000         | R$ 68,50                    | R$ 680,00        | R$ 680,00                     |
-| 2014 | 6.850.884         | R$ 76,84                    | R$ 690,00        | R$ 690,00                     |
-| 2015 | 6.904.241         | R$ 78,48                    | *#N/A*           | R$ 692,00                     |
-| 2016 | 6.954.036         | R$ 85,31                    | R$ 694,00        | R$ 694,00                     |
-| 2017 | 7.001.161         | R$ 89,54                    | *#N/A*           | R$ 701,50                     |
-| 2018 | 7.045.055         | R$ 98,18                    | R$ 709,00        | R$ 709,00                     |
-| 2019 | 7.087.262         | R$ 97,34                    | R$ 754,00        | R$ 754,00                     |
-| 2020 | 7.130.000         | R$ 106,92                   | R$ 814,00        | R$ 814,00                     |
-| 2021 | 7.153.262         | R$ 124,98                   | *#N/A*           | R$ 814,00                     |
-| 2022 | 6.775.152         | R$ 130,00                   | R$ 814,00        | R$ 814,00                     |
-| 2023 | 6.776.699         | R$ 135,00                   | R$ 969,00        | R$ 969,00                     |
-| 2024 | 7.010.960         | R$ 140,00                   | R$ 969,00        | R$ 969,00                     |
-
-
-
 ## Tarefa
+3. Realize o tratamento dos dados na coluna 'Renda per capita', corrigindo os valores faltante, por meio de interpolação linear. Em seguida, crie um gráfico que apresente a renda per capita ao longo dos anos, comparando os dados antes e depois do tratamento.
 
-1. Crie os gráficos mais adequados para visualizar a estimativa da população, o PIB e a renda per capita entre 2010 e 2024.  
-2. Certifique-se de incluir títulos e legendas apropriados.  
-3. Identifique claramente cada eixo com descrições relevantes.  
+## Conceito de interpolação (Alura) Estudo.
 
 
-![Gráfico População](URL_DA_IMAGEM)
-![Gráfico PIB](URL_DA_IMAGEM)
-![Gráfico Renda per Capita](URL_DA_IMAGEM)
+
+## Cálculos
+
+
+
+## Gráficos 
+
+
+
+## Resumo
