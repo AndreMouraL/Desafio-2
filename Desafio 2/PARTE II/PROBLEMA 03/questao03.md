@@ -3,14 +3,35 @@
 
 ## Conceito de interpolação (Alura) Estudo.
 
+Descrição do funcionamento para Interpolação Linear
+
+![termom](https://github.com/user-attachments/assets/1fd428b3-db5e-46a3-a413-a54fddb1a58a)
+
+![Tm01](https://github.com/user-attachments/assets/969c3c1f-08ff-481a-9da3-c3c36a478ce2)
+
+![Tm02](https://github.com/user-attachments/assets/b5b6d698-6f17-42a5-bc5a-c9342bbe2e4e)
 
 
 ## Cálculos
 
+Realizei os cálculos via Overleaf pra ter uma  confirmação dos valores  interpolados e também farei em  Google Sheets, mostrando também as tabelas calculadas a seguir.
 
+![ITL](https://github.com/user-attachments/assets/ac9d4ef1-f681-4db2-87b1-fc9da649ef67)
+
+![INL - Copia](https://github.com/user-attachments/assets/4c23b980-b040-4e79-89e3-f924f33d8cb4)
 
 ## Gráficos 
+
+Sem Interpolação.
+
+![Renda per capita por ano](https://github.com/user-attachments/assets/ce66555f-d172-483f-bd4b-3ea15e06227b)
+
+Com Interpolação.
+
+![Renda per capita por ano (1)](https://github.com/user-attachments/assets/4cf2226f-10cc-41a1-a4c3-4519bdfad1cb)
+
 
 
 
 ## Resumo
+ Análise de dados com Interpolação Linear  substituindo os lavores não encontrados por  valores próximos a média.
