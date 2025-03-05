@@ -30,7 +30,18 @@ Portanto, esses dados devem ser utilizados exclusivamente para fins deste desafi
 2. Certifique-se de incluir títulos e legendas apropriados.  
 3. Identifique claramente cada eixo com descrições relevantes.  
 
+## Gráficos para cada coluna para uma análise profunda dos dados do IBGE  do Estado do Maranhão.
 
-![Gráfico População](URL_DA_IMAGEM)
+![Crescimento da População Estimada (2010-2024)](https://github.com/user-attachments/assets/8d7c7edc-842a-44d0-92da-004f37945dae)
+
+![Crescimento do PIB Estimado (2010-2024)](https://github.com/user-attachments/assets/9373696a-70e4-4f3b-b503-18eb90cf848b)
+
+![Evolução da Renda per Capita (2010-2024)](https://github.com/user-attachments/assets/1d894610-0d93-40f8-a730-76f3af0bbaee)
+
+## Resumo
+
+Na análise foi feita primeiramente a interpolação linear para podemos visualizar com clareza o gráfico e suavizar o mesmo como mostra os gráficos da imagens acima o crescimento dos últimos anos da População Estimada, PIB e Renda. Isso é confirmado com a linha de tendência em tom vermelho.
+
+<!--![Gráfico População](URL_DA_IMAGEM)
 ![Gráfico PIB](URL_DA_IMAGEM)
-![Gráfico Renda per Capita](URL_DA_IMAGEM)
+![Gráfico Renda per Capita](URL_DA_IMAGEM)-->
