@@ -26,10 +26,8 @@ Portanto, esses dados devem ser utilizados exclusivamente para fins deste desafi
 
 ## Tarefa
 
-1. Crie os gráficos mais adequados para visualizar a estimativa da população, o PIB e a renda per capita entre 2010 e 2024.  
-2. Certifique-se de incluir títulos e legendas apropriados.  
-3. Identifique claramente cada eixo com descrições relevantes.  
-
+1. Crie os gráficos mais adequados para visualizar a estimativa da população, o PIB e a renda per capita entre 2010 e 2024. Certifique-se de incluir títulos e legendas apropriados, além de identificar claramente cada eixo com descrições relevantes.
+   
 ## Gráficos para cada coluna para uma análise profunda dos dados do IBGE  do Estado do Maranhão.
 
 ![Crescimento da População Estimada (2010-2024)](https://github.com/user-attachments/assets/8d7c7edc-842a-44d0-92da-004f37945dae)
