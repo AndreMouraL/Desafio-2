@@ -132,3 +132,8 @@ A variação de uma grandeza no tempo pode ser analisada com as expressões mate
 
 ## Resumo
 Análise do calculo de Renda, PIB e polução do Estado do Maranhão e em todas as tabelas estão calculada todas as a velocidades  e aceleração em suas respectivas colunas.
+
+
+## Google Sheets:
+O estudo foi realizado no Google Sheets para análise de dados para Questão 2, que pode ser acessado [neste link](https://docs.google.com/spreadsheets/d/1dnT2A_xqpOJvcU6wNs8Hh-0DZCQRAhmICIfvLmVqEjc/edit?usp=sharing).
+
