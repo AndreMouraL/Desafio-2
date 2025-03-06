@@ -16,6 +16,10 @@ Descrição do funcionamento para Interpolação Linear
 
 Realizei os cálculos via Overleaf pra ter uma  confirmação dos valores  interpolados e também farei em  Google Sheets, mostrando também as tabelas calculadas a seguir.
 
+![Fórmula da Interpolação Linear](https://latex.codecogs.com/svg.image?\dpi{110}&space;\color{White}y&space;=&space;y_1&space;+&space;\frac{(y_2&space;-&space;y_1)}{(x_2&space;-&space;x_1)}&space;\cdot&space;(x&space;-&space;x_1))
+
+
+
 ![ITL](https://github.com/user-attachments/assets/ac9d4ef1-f681-4db2-87b1-fc9da649ef67)
 
 ![INL - Copia](https://github.com/user-attachments/assets/4c23b980-b040-4e79-89e3-f924f33d8cb4)
@@ -39,4 +43,6 @@ Com Interpolação.
 
 ## Google Sheets:
 O estudo foi realizado no Google Sheets para análise de dados para questão 3, que pode ser acessado [neste link](https://docs.google.com/spreadsheets/d/1mGFcJQ4haugvqLcHhYjo-9yQGjiMTzmd93ZD702NckI/edit?usp=sharing).
+
+
 
