@@ -86,7 +86,7 @@
 ![chart](https://github.com/user-attachments/assets/5fa5d4a9-4b84-4984-bcc5-ac6c28c9548b)
 
 ## Resumo
-A análise estatística da população estimada, PIB e renda per capita entre 2010 e 2024 revela variações significativas ao longo dos anos. A população apresentou um crescimento gradual, com uma variância amostral de 31,3 bilhões e um desvio padrão de 177.025,34. O PIB mostrou um aumento constante, partindo de R$ 52,10 bilhões em 2010 para R$ 140,00 bilhões em 2024, resultando em uma variância amostral de 875,32 e um desvio padrão de 29,59. Já a renda per capita teve oscilações, com destaque para o salto de R$ 814,00 em 2022 para R$ 969,00 em 2023, refletindo uma variância amostral de 10.499,13 e um desvio padrão de 102,47. Esses dados evidenciam o crescimento econômico e demográfico ao longo dos anos, embora com flutuações expressivas.
+A análise estatística da população estimada, PIB e renda per capita entre 2010 e 2024 do Estado do Maranhão revela variações significativas ao longo dos anos. A população apresentou um crescimento gradual, com uma variância amostral de 31,3 bilhões e um desvio padrão de 177.025,34. O PIB mostrou um aumento constante, partindo de R$ 52,10 bilhões em 2010 para R$ 140,00 bilhões em 2024, resultando em uma variância amostral de 875,32 e um desvio padrão de 29,59. Já a renda per capita teve oscilações, com destaque para o salto de R$ 814,00 em 2022 para R$ 969,00 em 2023, refletindo uma variância amostral de 10.499,13 e um desvio padrão de 102,47. Esses dados evidenciam o crescimento econômico e demográfico ao longo dos anos, embora com flutuações expressivas.
 
 
 
