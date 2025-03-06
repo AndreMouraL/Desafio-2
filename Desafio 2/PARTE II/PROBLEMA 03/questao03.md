@@ -37,3 +37,6 @@ Com Interpolação.
 
 <!--![Fórmula da Interpolação Linear](https://latex.codecogs.com/svg.image?\dpi{110}f(x)%20=%20f(x_0)%20+%20\frac{(x%20-%20x_0)%20\cdot%20(f(x_1)%20-%20f(x_0))}{x_1%20-%20x_0})-->
 
+## Google Sheets:
+O estudo foi realizado no Google Sheets para análise de dados para questão 3, que pode ser acessado [neste link](https://docs.google.com/spreadsheets/d/1mGFcJQ4haugvqLcHhYjo-9yQGjiMTzmd93ZD702NckI/edit?usp=sharing).
+
