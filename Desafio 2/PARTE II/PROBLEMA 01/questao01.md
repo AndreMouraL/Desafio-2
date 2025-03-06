@@ -43,3 +43,7 @@ Na análise foi feita primeiramente a interpolação linear para podemos visuali
 <!--![Gráfico População](URL_DA_IMAGEM)
 ![Gráfico PIB](URL_DA_IMAGEM)
 ![Gráfico Renda per Capita](URL_DA_IMAGEM)-->
+
+
+## Google Sheets:
+O estudo foi realizado no Google Sheets para análise de dados para Questão 1, que pode ser acessado [neste link](https://docs.google.com/spreadsheets/d/1M_jdFwk_7aQWxptMN6GplBu1dt8xxb3gqDYBT2nSjLE/edit?usp=sharing).
