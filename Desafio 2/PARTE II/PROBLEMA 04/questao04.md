@@ -74,7 +74,7 @@ A tabela abaixo apresenta dados estimados de população, PIB e renda per capita
 
 ## Resumo 
 
-As tabelas apresentadas fornecem dados estimados de população, PIB e renda per capita entre os anos de 2010 a 2024, com duas análises de médias móveis: uma de 3 anos e outra de 7 anos. Observa-se que, ao longo dos anos, houve um crescimento gradual tanto na população quanto no PIB, com variações na renda per capita. A média móvel de 3 anos indica um aumento constante, com destaque para 2020 a 2024, quando a renda per capita apresenta um salto mais acentuado, especialmente entre 2022 e 2024. Já a média móvel de 7 anos reflete uma tendência mais estável e gradual, considerando uma visão mais ampla da evolução econômica e demográfica ao longo do tempo.
+As tabelas apresentadas fornecem dados estimados de população, PIB e renda per capita entre os anos de 2010 a 2024, do Estado do Maranhão com duas análises de médias móveis: uma de 3 anos e outra de 7 anos. Observa-se que, ao longo dos anos, houve um crescimento gradual tanto na população quanto no PIB, com variações na renda per capita. A média móvel de 3 anos indica um aumento constante, com destaque para 2020 a 2024, quando a renda per capita apresenta um salto mais acentuado, especialmente entre 2022 e 2024. Já a média móvel de 7 anos reflete uma tendência mais estável e gradual, considerando uma visão mais ampla da evolução econômica e demográfica ao longo do tempo.
 
 
 
