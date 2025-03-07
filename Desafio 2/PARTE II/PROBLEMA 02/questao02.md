@@ -132,6 +132,54 @@ A variação de uma grandeza no tempo pode ser analisada com as expressões mate
 
 ## Resumo
 Análise do calculo de Renda, PIB e polução do Estado do Maranhão e em todas as tabelas estão calculada todas as a velocidades  e aceleração em suas respectivas colunas.
+# Análise da Velocidade do Crescimento da Renda per Capita (2010-2024)
+
+## Tendência Geral
+
+O crescimento da renda per capita oscilou ao longo do período, sem uma tendência clara de crescimento contínuo. Há momentos de alta seguidos de quedas.
+
+## Períodos de Estagnação
+
+- Entre 2014 e 2018, a velocidade do crescimento permaneceu baixa, sem grandes variações.  
+- Isso pode indicar um período de estabilidade econômica ou de crescimento lento.  
+
+## Picos e Quedas
+
+- Entre 2019 e 2020, houve um aumento significativo na velocidade do crescimento da renda per capita, seguido por uma queda abrupta.  
+- Após 2021, a velocidade caiu para valores próximos de zero, mas um grande pico foi registrado em torno de 2023, indicando um aumento expressivo da renda per capita naquele período.  
+- Logo após esse pico, houve uma nova queda brusca, retornando a valores próximos de zero.  
+
+## Possíveis Interpretações
+
+- O aumento entre 2019 e 2020 pode estar relacionado a políticas econômicas ou estímulos governamentais.  
+- A queda após 2020 pode indicar crises econômicas ou impactos externos.  
+- O pico em 2023 sugere uma recuperação ou evento econômico específico que impulsionou a renda, seguido de uma desaceleração em 2024.  
+
+# Análise da Aceleração do Crescimento da Renda per Capita (2010-2024)
+
+## Análise do Gráfico
+
+### Comportamento Geral
+
+- A aceleração oscila em torno do zero ao longo dos anos, indicando momentos de aumento e desaceleração no crescimento da renda per capita.  
+- Há períodos de relativa estabilidade (valores próximos de zero), intercalados com momentos de aumento ou queda acentuada.  
+
+### Picos e Quedas Importantes
+
+- Em torno de 2019-2020, houve um aumento na aceleração, seguido por uma desaceleração logo depois.  
+- Entre 2021 e 2022, a aceleração passou por uma queda significativa, indicando que a renda per capita estava crescendo a uma taxa menor (ou até mesmo começando a cair).  
+- O pico mais expressivo ocorre por volta de 2023, indicando uma grande aceleração do crescimento da renda.  
+- No entanto, essa aceleração despenca em 2024, sugerindo que o crescimento da renda per capita desacelerou drasticamente ou até mesmo entrou em retração.  
+
+## Interpretações Possíveis
+
+- O padrão de aceleração sugere ciclos econômicos influenciados por políticas fiscais, crises ou eventos externos.  
+- O pico de 2023 pode estar associado a um estímulo econômico ou recuperação pós-crise.  
+- A queda brusca em 2024 pode indicar o fim desse impulso econômico, levando a uma desaceleração repentina.  
+ 
+## Conclusão
+
+O gráfico sugere uma renda per capita com crescimento instável, possivelmente influenciada por fatores econômicos externos ou políticas governamentais. O período de 2023 se destaca com um grande crescimento, mas a queda subsequente mostra que a tendência de longo prazo pode não ser sustentável. Asssim, o gráfico mostra que o crescimento da renda per capita não foi constante e passou por fases de aceleração e desaceleração ao longo do tempo. A oscilação nos últimos anos indica que o crescimento pode ser instável e dependente de fatores econômicos externos. A forte desaceleração em 2024 pode ser um sinal de alerta para uma possível recessão ou enfraquecimento do crescimento econômico.
 
 
 ## Google Sheets:
