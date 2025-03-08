@@ -80,6 +80,7 @@ A tabela abaixo apresenta dados estimados de população, PIB e renda per capita
         O gráfico que representa esses dados mostraria a evolução da população, do PIB e da renda per capita ao longo dos anos, com destaque para a comparação entre as médias móveis de 3 e 7 anos. A linha do PIB estimado teria uma tendência de crescimento constante, refletindo um aumento no valor total da economia ao longo do período, com picos visíveis, especialmente entre 2020 e 2024. A linha da população estimada também mostra uma leve tendência de crescimento, embora de forma mais gradual. Já a linha da renda per capita reflete um aumento considerável ao longo do tempo, com uma aceleração a partir de 2020, indicando que a renda média por pessoa tem se elevado de maneira consistente. As médias móveis, tanto de 3 quanto de 7 anos, suavizam as variações anuais, oferecendo uma visão mais clara das tendências de longo prazo dessas variáveis.
 </p>
 ## Google Sheets:
+
 O estudo foi realizado no Google Sheets para análise de dados para Questão 4, que pode ser acessado [neste link](https://docs.google.com/spreadsheets/d/15GvFwOyFRNuMy2XqKyEGM-tYDA79Q73c6zlJCIa3-Lk/edit?usp=sharing).
 
 
