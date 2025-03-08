@@ -178,9 +178,9 @@ O crescimento da renda per capita oscilou ao longo do período, sem uma tendênc
 - A queda brusca em 2024 pode indicar o fim desse impulso econômico, levando a uma desaceleração repentina.  
  
 ## Conclusão
-
+<p align="justify">
 O gráfico sugere uma renda per capita com crescimento instável, possivelmente influenciada por fatores econômicos externos ou políticas governamentais. O período de 2023 se destaca com um grande crescimento, mas a queda subsequente mostra que a tendência de longo prazo pode não ser sustentável. Asssim, o gráfico mostra que o crescimento da renda per capita não foi constante e passou por fases de aceleração e desaceleração ao longo do tempo. A oscilação nos últimos anos indica que o crescimento pode ser instável e dependente de fatores econômicos externos. A forte desaceleração em 2024 pode ser um sinal de alerta para uma possível recessão ou enfraquecimento do crescimento econômico.
-
+</p>
 
 ## Google Sheets:
 O estudo foi realizado no Google Sheets para análise de dados para Questão 2, que pode ser acessado [neste link](https://docs.google.com/spreadsheets/d/1dnT2A_xqpOJvcU6wNs8Hh-0DZCQRAhmICIfvLmVqEjc/edit?usp=sharing).
