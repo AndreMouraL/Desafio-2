@@ -86,10 +86,13 @@
 ![chart](https://github.com/user-attachments/assets/5fa5d4a9-4b84-4984-bcc5-ac6c28c9548b)
 
 ## Resumo
+<p align="justify">
 A análise estatística da população estimada, PIB e renda per capita entre 2010 e 2024 do Estado do Maranhão revela variações significativas ao longo dos anos. A população apresentou um crescimento gradual, com uma variância amostral de 31,3 bilhões e um desvio padrão de 177.025,34. O PIB mostrou um aumento constante, partindo de R$ 52,10 bilhões em 2010 para R$ 140,00 bilhões em 2024, resultando em uma variância amostral de 875,32 e um desvio padrão de 29,59. Já a renda per capita teve oscilações, com destaque para o salto de R$ 814,00 em 2022 para R$ 969,00 em 2023, refletindo uma variância amostral de 10.499,13 e um desvio padrão de 102,47. Esses dados evidenciam o crescimento econômico e demográfico ao longo dos anos, embora com flutuações expressivas.
+</p>
 
+<p align="justify">
 A análise dos dados revela uma tendência crescente no crescimento populacional e no aumento do PIB ao longo dos anos. A população estimada mostrou um crescimento gradual, refletindo tanto o aumento natural da população quanto a possível migração. O PIB, por sua vez, teve uma evolução considerável, com aumento da produção econômica em vários anos, especialmente após 2015. A renda per capita, apesar de ter flutuado em alguns momentos, demonstrou um padrão crescente, o que pode indicar melhorias no poder aquisitivo da população em determinado período, embora também tenha apresentado momentos de estagnação ou desaceleração, especialmente no início da década. Esses dados ajudam a entender as dinâmicas econômicas e sociais de um país, apontando para uma série de fatores que impactam o bem-estar da população e o desenvolvimento econômico ao longo do tempo.
-
+</p>
 
 ## Google Sheets:
 O estudo foi realizado no Google Sheets para análise de dados da Questão 05, que pode ser acessado [neste link](https://docs.google.com/spreadsheets/d/1BpD1-bJUdf_ZCAU7K9dq8vrGaT8K4CsoWL01jesG5CA/edit?usp=sharing).
