@@ -73,11 +73,14 @@ A tabela abaixo apresenta dados estimados de população, PIB e renda per capita
 
 
 ## Resumo 
-
-As tabelas apresentadas fornecem dados estimados de população, PIB e renda per capita entre os anos de 2010 a 2024, do Estado do Maranhão com duas análises de médias móveis: uma de 3 anos e outra de 7 anos. Observa-se que, ao longo dos anos, houve um crescimento gradual tanto na população quanto no PIB, com variações na renda per capita. A média móvel de 3 anos indica um aumento constante, com destaque para 2020 a 2024, quando a renda per capita apresenta um salto mais acentuado, especialmente entre 2022 e 2024. Já a média móvel de 7 anos reflete uma tendência mais estável e gradual, considerando uma visão mais ampla da evolução econômica e demográfica ao longo do tempo.
-
-
+<p align="justify">
+        As tabelas apresentadas fornecem dados estimados de população, PIB e renda per capita entre os anos de 2010 a 2024, do Estado do Maranhão com duas análises de médias móveis: uma de 3 anos e outra de 7 anos. Observa-se que, ao longo dos anos, houve um crescimento gradual tanto na população quanto no PIB, com variações na renda per capita. A média móvel de 3 anos indica um aumento constante, com destaque para 2020 a 2024, quando a renda per capita apresenta um salto mais acentuado, especialmente entre 2022 e 2024. Já a média móvel de 7 anos reflete uma tendência mais estável e gradual, considerando uma visão mais ampla da evolução econômica e demográfica ao longo do tempo. Assim, suavizando as variações diárias. E sempre por número Impares pois, a vantagem é o equilíbrio: Quando você usa um número ímpar de períodos, o ponto central (que é o "meio" da média) pode ser considerado um reflexo mais equilibrado da série temporal, sem ter que dividir a análise entre dois pontos, como aconteceria em um número par de períodos.
+</p>
+<p align="justify">
+        O gráfico que representa esses dados mostraria a evolução da população, do PIB e da renda per capita ao longo dos anos, com destaque para a comparação entre as médias móveis de 3 e 7 anos. A linha do PIB estimado teria uma tendência de crescimento constante, refletindo um aumento no valor total da economia ao longo do período, com picos visíveis, especialmente entre 2020 e 2024. A linha da população estimada também mostra uma leve tendência de crescimento, embora de forma mais gradual. Já a linha da renda per capita reflete um aumento considerável ao longo do tempo, com uma aceleração a partir de 2020, indicando que a renda média por pessoa tem se elevado de maneira consistente. As médias móveis, tanto de 3 quanto de 7 anos, suavizam as variações anuais, oferecendo uma visão mais clara das tendências de longo prazo dessas variáveis.
+</p>
 ## Google Sheets:
+
 O estudo foi realizado no Google Sheets para análise de dados para Questão 4, que pode ser acessado [neste link](https://docs.google.com/spreadsheets/d/15GvFwOyFRNuMy2XqKyEGM-tYDA79Q73c6zlJCIa3-Lk/edit?usp=sharing).
 
 
