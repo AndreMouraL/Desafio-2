@@ -18,4 +18,4 @@ while (true) { // Loop infinito
 
     console.log(`Você digitou: ${numero}`);
 }
-//@AndreMouraL
+//@AndreMouraL   
