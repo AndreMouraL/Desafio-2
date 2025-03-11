@@ -1,7 +1,9 @@
 # 🚀 Desafio 2 ✅  
 
 🗓️ **Data de Publicação:** 19/02/2025  
-💣 **Data de Entrega:** 13/03/2025 
+💣 ~~**Data de Entrega:** 13/03/2025~~ 
+
+💣 **Data de Entrega:** 20/03/2025
 
 📊📈👨🏻‍💻👩🏻‍💻 CIÊNCIA DE DADOS - ANDRE MOURA LIMA
 
