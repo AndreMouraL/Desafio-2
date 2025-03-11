@@ -7,7 +7,7 @@
 
 📊📈👨🏻‍💻👩🏻‍💻 CIÊNCIA DE DADOS - ANDRE MOURA LIMA
 
-🗓️ Data de Envio: 00/00/0000.
+🗓️ Data de Envio: 11/03/2025.
 
 # Parte I – Algoritmo e Lógica de Programação
 
@@ -21,7 +21,10 @@
 6. Crie uma função que receba um nome como parâmetro e retorne uma mensagem personalizada no seguinte formato: "Olá, (nome), que bom ter você no programa Trilhas."
 7. Crie uma função chamada `calcularQuadrado` que receba um número como parâmetro e retorne o quadrado desse número.
 8. Crie uma função chamada `Subtracao` que receba dois números como parâmetros e retorne o resultado da subtração entre eles.
-
+<p align="justify">
+📌 Observação: Nessa primeira parte desafio 2 pode ser executado no terminal com Node.js e Code Runner ou no navegador com HTML atráves do Live Server. Além disso, foi instalado a biblioteca npm install prompt-sync para executar no node.js ou npm install -g prompt-sync para global. A execução pode ser feita da seguinte forma: node "C:/Users/Lenovo/Documents/GitHub/Desafio-2/Desafio 2/PARTE I/PROBLEMA 01/PROBLEMA 01.js" isso vale para todos arquivos .js mundando o numero da pasta e do arquivo, isso também vai depender do local em que o arquivo .js esta em sua máquina. 
+Observação: Você pode mover os arquivos da pasta sync e colocá-las na pasta desafio 1, que a execução funcionará corretamente.
+</p>
 # Parte II – Análise de Dados com Google Sheets
 
 ## Temática:
@@ -59,6 +62,14 @@
    - Calcule a variância e o desvio padrão para cada coluna, utilizando as fórmulas especificadas.
 
 6.  Por fim, faça um relatório de duas páginas, detalhando a sua observação na análise desses dados do Estado do Maranhão.
+   
+<p align="justify">
+📌 Observação: Na segunda etapa do Desafio 2, a análise foi realizada no Google Sheets. Neste repositório, você encontrará a descrição de cada problema da Parte II, suas respectivas resoluções e os links para as planilhas no Google Sheets, disponíveis no arquivo README.md.
+</p>
+
+<p align="justify">
+Além disso, há um relatório neste repositório, que inclui links para as tabelas e gráficos analisados, bem como os links para o Overleaf (onde o relatório foi elaborado). Também estão disponíveis links para o meu portfólio, onde apresento um mapa dessas análises para as cidades do Maranhão.
+</p>
 
 
 ### Citação do Desafio 2
