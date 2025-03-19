@@ -66,10 +66,10 @@ Com Interpolação.
 
 ## Resumo
  Análise de dados com Interpolação Linear  substituindo os valores não encontrados por  valores próximos a média.
-<p align="justify">
 
  Os dados com interpolação foram colocados prositamentente para a manipulação de dados e encontrar o termo médio. Então temos:
-
+ 
+<p align="justify">
  O gráfico de Renda per capita por ano apresenta uma análise da evolução dos valores ao longo do tempo, destacando a interpolação dos dados. A linha azul representa os valores reais observados, enquanto a linha vermelha indica a tendência estimada. Observa-se um crescimento geral da renda per capita, com algumas oscilações ao longo dos anos. Entre 2022 e 2024, há um aumento significativo, sugerindo um período de crescimento econômico mais acelerado.
 </p>
 <p align="justify">
