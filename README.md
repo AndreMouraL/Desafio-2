@@ -3,13 +3,13 @@
 🗓️ **Data de Publicação:** 19/02/2025  
 💣 ~~**Data de Entrega:** 13/03/2025~~ 
 
-💣 ** Alteração:** 19/03/2025
-
 💣 **Data de Entrega:** 20/03/2025
 
 📊📈👨🏻‍💻👩🏻‍💻 CIÊNCIA DE DADOS - ANDRE MOURA LIMA
 
 🗓️ Data de Envio: 11/03/2025.
+
+🗓️ Alteração relatório e reenvio: 19/03/2025.
 
 # Parte I – Algoritmo e Lógica de Programação
 
