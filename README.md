@@ -71,6 +71,9 @@ Observação: Você pode mover os arquivos da pasta sync e colocá-las na pasta 
 
 <p align="justify">
 Além disso, há um relatório neste repositório, que inclui links para as tabelas e gráficos analisados, bem como os links para o Overleaf (onde o relatório foi elaborado). Também estão disponíveis links para o meu portfólio, onde apresento um mapa dessas análises para as cidades do Maranhão.
+
+O  link geral do Google Sheets de cada problema de análise de dados pode ser acessado [neste link](https://docs.google.com/spreadsheets/d/1oRzIsCexpBv6KvOESEP3pX1DtyfX7Cp70PoI8KgqKq4/edit?usp=sharing).
+
 </p>
 
 
