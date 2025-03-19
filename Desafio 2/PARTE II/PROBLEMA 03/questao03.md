@@ -53,15 +53,23 @@ Sem Interpolação.
 
 ![Renda per capita por ano](https://github.com/user-attachments/assets/ce66555f-d172-483f-bd4b-3ea15e06227b)
 
+![Renda per capita por ano](https://github.com/user-attachments/assets/cc697962-7c7b-4033-a817-4a5f5f11e64f)
+
+
 Com Interpolação.
 
 ![Renda per capita por ano (1)](https://github.com/user-attachments/assets/4cf2226f-10cc-41a1-a4c3-4519bdfad1cb)
 
+![Renda per capita por ano (1)](https://github.com/user-attachments/assets/6d664102-0e70-4762-aaef-01f4421afa19)
+
 
 
 ## Resumo
- Análise de dados com Interpolação Linear  substituindo os lavores não encontrados por  valores próximos a média.
+ Análise de dados com Interpolação Linear  substituindo os valores não encontrados por  valores próximos a média.
 <p align="justify">
+
+ Os dados com interpolação foram colocados prositamentente para a manipulação de dados e encontrar o termo médio. Então temos:
+
  O gráfico de Renda per capita por ano apresenta uma análise da evolução dos valores ao longo do tempo, destacando a interpolação dos dados. A linha azul representa os valores reais observados, enquanto a linha vermelha indica a tendência estimada. Observa-se um crescimento geral da renda per capita, com algumas oscilações ao longo dos anos. Entre 2022 e 2024, há um aumento significativo, sugerindo um período de crescimento econômico mais acelerado.
 </p>
 <p align="justify">
